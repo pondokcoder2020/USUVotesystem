@@ -1,0 +1,6 @@
+includes/conn.php
+*.sql
+db
+plugins
+/images/
+/bower_components/
